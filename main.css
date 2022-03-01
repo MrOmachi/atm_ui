@@ -1,0 +1,248 @@
+.welcome-atm{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-image: url(./img/insert-card-atm-machine-red-background-58605679.jpg);
+  background-size: contain;
+  background-position: center;
+}
+.welcome-atm_p{
+  text-align: center;
+  color: white;
+  position:relative;
+  top: 120px;
+  font-weight: 500;
+}
+.welcome-atm_proceed{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 120px;
+  left: 26px;
+}
+
+/* insert your card */
+.insert_card{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-image: url(./img/insert-card-atm-machine-red-background-58605679.jpg);
+  background-size: contain;
+  background-position: center;
+}
+.insert_p{
+  text-align: center;
+  color: white;
+  position:relative;
+  top: 110px;
+  font-weight: 500;
+}
+.insert_enter{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 277px;
+  right: 20px;
+}
+.insert_enter button{
+font-weight: 800;
+font-size: 8px;
+padding: 4px;
+}
+
+/* select language */
+.insert_lang{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-image: url(./img/insert-card-atm-machine-red-background-58605679.jpg);
+  background-size: contain;
+  background-position: center;
+}
+.insert_lang_p{
+  text-align: center;
+  color: white;
+  position:relative;
+  top: 110px;
+  font-weight: 800;
+}
+.insert_lang1{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 124px;
+  right: 65px;
+}
+.insert_lang2{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 104px;
+  left: 50px;
+}
+.insert_lang3{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 126px;
+  right: 54px;
+}
+.insert_lang4{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 106px;
+  left: 56px;
+}
+
+/* select account type */
+
+.account_type{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-image: url(./img/insert-card-atm-machine-red-background-58605679.jpg);
+  background-size: contain;
+  background-position: center;
+}
+.account_type_p{
+  text-align: center;
+  color: white;
+  position:relative;
+  top: 110px;
+  font-weight: 800;
+}
+.account_type1{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 107px;
+  right: 53px;
+}
+.account_type2{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 85px;
+  left: 46px;
+}
+.account_type3{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 110px;
+  right: 40px;
+}
+
+/* withdraw_cash */
+.withdraw{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-image: url(./img/insert-card-atm-machine-red-background-58605679.jpg);
+  background-size: contain;
+  background-position: center;
+}
+.withdraw_p{
+  text-align: center;
+  color: white;
+  position:relative;
+  top: 110px;
+  font-weight: 800;
+}
+.withdraw1{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 105px;
+  right: 46px;
+}
+.withdraw2{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 107px;
+  left: 42px;
+}
+.withdraw3{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 110px;
+  right: 44px;
+}
+
+/* select amount */
+.amount{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-image: url(./img/insert-card-atm-machine-red-background-58605679.jpg);
+  background-size: contain;
+  background-position: center;
+}
+.amount_p{
+  text-align: center;
+  color: white;
+  position:relative;
+  top: 110px;
+  font-weight: 500;
+}
+.amount_text{
+position: relative;
+  text-align: center;
+  color: white;
+  top: 110px;
+  right: 2px;
+}
+.amount_text input{
+  padding: 10px 0px;
+  width: 90px;
+}
+.amount_proceed{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 277px;
+  right: 20px;
+}
+.amount_proceed button{
+position: relative;
+  text-align: center;
+  bottom: 146px;
+  left: 66px;
+}
+
+/* take ur funds */
+.take_amount{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-image: url(./img/insert-card-atm-machine-red-background-58605679.jpg);
+  background-size: contain;
+  background-position: center;
+}
+.take_amount_p{
+  text-align: center;
+  color: white;
+  position:relative;
+  top: 120px;
+  font-weight: 500;
+}
+.take_amount_proceed{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 277px;
+  right: 20px;
+}
+.take_amount button{
+position: relative;
+  text-align: center;
+  bottom: 145px;
+  left: 38px;
+}
+
+/* take_card */
+
+.take_card_proceed{
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 277px;
+  right: 32px;
+}
+
